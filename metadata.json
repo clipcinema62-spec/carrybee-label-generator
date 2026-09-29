@@ -1,0 +1,6 @@
+{
+  "name": "ThermalPrint Studio - 3x4 Label Designer & Printer",
+  "description": "Industrial 3x4 inch thermal label designer and driver workstation with direct printing, TSPL, ZPL, and ESC/POS code generation for Gprinter, Xprinter, Sunmi, Dotmax, POSLogic, and Zebra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
